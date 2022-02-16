@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/R-MaCheonMigung/static/css/main.ff31033d.css",
+    "main.js": "/R-MaCheonMigung/static/js/main.95e4e7a3.js",
+    "static/media/img.png": "/R-MaCheonMigung/static/media/img.d249fbdb0f53e53b674d.png",
+    "index.html": "/R-MaCheonMigung/index.html",
+    "main.ff31033d.css.map": "/R-MaCheonMigung/static/css/main.ff31033d.css.map",
+    "main.95e4e7a3.js.map": "/R-MaCheonMigung/static/js/main.95e4e7a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff31033d.css",
+    "static/js/main.95e4e7a3.js"
+  ]
+}
